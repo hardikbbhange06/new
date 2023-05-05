@@ -1,0 +1,7 @@
+.hover:hover{
+    cursor: pointer;
+}
+.rounded {
+    border-radius: 20.25rem!important;
+    background-color: rgb(237, 168, 247);
+}
